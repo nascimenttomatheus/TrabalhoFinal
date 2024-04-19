@@ -4507,8 +4507,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.SubInstanceVar,
 		C3.Plugins.Sprite.Acts.SetVisible,
 		C3.Plugins.Spritefont2.Acts.SetVisible,
-		C3.Plugins.Spritefont2.Acts.SetText,
-		C3.Plugins.System.Acts.GoToLayout
+		C3.Plugins.Spritefont2.Acts.SetText
 	];
 };
 self.C3_JsPropNameTable = [
